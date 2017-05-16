@@ -7,6 +7,20 @@
 	"invoice": [
 		{
 			"id": "2",
+			"recipient": {
+				"name": "somebody",
+				"address": "once told me\n"
+			},
+			"currency": "$",
+			"services": []
+		},
+		{
+			"id": "1",
+			"currency": "$",
+			"services": []
+		},
+		{
+			"id": "2",
 			"date": "2016-10-06",
 			"recipient": {
 				"name": "Widget Corp",
